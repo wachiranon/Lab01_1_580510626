@@ -1,0 +1,93 @@
+/*
+* @Author: morpez
+* @Date:   2016-05-23 16:18:39
+* @Last Modified by:   morpez
+* @Last Modified time: 2016-05-23 23:20:53
+*/
+body {
+    background-color: #F3F39A;
+}
+
+.container_h{
+    color: #030000;
+    background-color:  #8DE7F2;
+    width:  10%;
+    height: 2%;
+    border : 5px solid #F9FFA4;
+    padding: 10px;
+    /*padding-top: 35px;
+    padding-right: 10px;
+    padding-left:  10px;
+    padding-bottom: 10px;*/
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+}
+.container_d{
+    color: #030000;
+    background-color:  #8DE7F2;
+    width:  11.5%;
+    height: 3%;
+    border : 5px solid #F9FFA4;
+    /*padding: 10px;*/
+    padding-top: 15px;
+    /*padding-right: 10px;
+    padding-left:  10px;
+    padding-bottom: 10px;*/
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+}
+.container_b{
+    color: #8DE7F2;
+    background-color:  #8DE7F2;
+    width:  11.5%;
+    height: 3%;
+    border : 5px solid #F9FFA4;
+    /*padding: 10px;*/
+    padding-top: 15px;
+    /*padding-right: 10px;
+    padding-left:  10px;
+    padding-bottom: 10px;*/
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+}
+.container_bd{
+    color: #030000;
+    background-color:  #8DF793;
+    width:  11.5%;
+    height: 3%;
+    border : 5px solid #F9FFA4;
+    /*padding: 10px;*/
+    padding-top: 15px;
+    /*padding-right: 10px;
+    padding-left:  10px;
+    padding-bottom: 10px;*/
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+}
+.container_hd{
+    color: #030000;
+    background-color:  #FC7672;
+    width:  11.5%;
+    height: 3%;
+    border : 5px solid #F9FFA4;
+    /*padding: 10px;*/
+    padding-top: 15px;
+    /*padding-right: 10px;
+    padding-left:  10px;
+    padding-bottom: 10px;*/
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+}
+
+.header {
+    color: #c0392b;
+    border: 10px solid #2c3e50;
+    padding: 10px;
+    text-align:  center;
+    box-shadow:  10px 10px 5px grey;
+}
